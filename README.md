@@ -73,5 +73,5 @@ Within the download you'll find the following directories and files:
 
 ## Contact Us
 
-- Email Us: support@web3pros.dev
+- Email Us: medzinou07@gmail.com
 - [Follow us on Instagram](https://www.instagram.com/web3pros.dev/)
